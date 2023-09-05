@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+ <item
+     android:icon="@drawable/ic_baseline_more_vert_24"
+     android:id="@+id/more"
+     android:title="more"
+     app:showAsAction="always"
+     >
+<menu>
+
+    <item
+        android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/back"
+        android:title="back"
+        android:icon="@drawable/ic_baseline_arrow_back"
+        app:showAsAction="always"
+
+       />
+    <item
+        android:title="Help"
+        android:id="@+id/Help"
+        android:icon="@drawable/ic_baseline_help_outline_24"
+        app:showAsAction="always"
+        />
+</menu>
+ </item>
+
+</menu>

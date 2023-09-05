@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item
+    android:id="@+id/downloadImage"
+    android:title= "Download"
+    />
+
+    <item
+        android:id="@+id/share"
+        android:title="Share Img"
+        />
+
+    <item
+    android:id="@+id/veiw"
+    android:title="Veiw Img"
+    />
+    <item
+        android:title="Hide The Img"
+        android:id="@+id/Hide"
+        />
+
+</menu>

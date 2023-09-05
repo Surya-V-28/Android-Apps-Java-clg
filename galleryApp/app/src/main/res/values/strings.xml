@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <style name="MyToolbarStyle" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
